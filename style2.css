@@ -1,0 +1,45 @@
+h1{
+    color: red;
+}
+.heading{
+    color: red;
+    font-style: italic;
+}
+ol{
+    color: maroon;
+    line-height: 40px;
+
+}
+.class1{
+    text-decoration: line-through;
+
+}
+.class2{
+    background-color: yellow;
+}
+.class3{
+    font-style: italic;
+    text-decoration: underline;
+}
+.class4{
+    font-style: italic;
+    color: red;
+}
+ul{
+    color: maroon;
+    letter-spacing: 3px;
+    line-height: 16px;
+}
+.class5{
+    background-color: yellow;
+}
+p{
+    color: maroon;
+}
+
+a{
+    color: red;
+    font-style: italic;
+    background-color: yellow;
+    text-decoration: none;
+}
